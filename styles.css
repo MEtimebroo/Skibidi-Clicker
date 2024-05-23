@@ -48,6 +48,10 @@ body {
     flex-direction: column;
     align-items: center;
   }
+
+  #btn {
+    margin-right: 35px;
+  }
   
   #upgradeButtons>.btns {
     background-color: darkslategray;
