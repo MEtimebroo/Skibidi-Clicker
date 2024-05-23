@@ -55,3 +55,6 @@ document.body.addEventListener("keyup", function(event) {
 document.body.addEventListener("keydown", function(event) {
   if (event.code === "Enter") clear();
 });
+document.body.addEventListener("keydown", function(event) {
+  if (event.code === "Enter") clear();
+});
