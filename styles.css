@@ -49,10 +49,11 @@ body {
     align-items: center;
   }
 
-  #btn {
-    margin-right: 10px;
+  #btn1 {
+      position: fixed;
+      bottom: 0;
   }
-  
+
   #upgradeButtons>.btns {
     background-color: darkslategray;
     color: whitesmoke;
