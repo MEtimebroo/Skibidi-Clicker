@@ -51,7 +51,7 @@ body {
 
   #btn1 {
       position: fixed;
-      bottom: 0;
+      bottom: 17px;
   }
 
   #upgradeButtons>.btns {
